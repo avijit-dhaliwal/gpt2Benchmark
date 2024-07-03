@@ -43,7 +43,7 @@ python gpt2.py
   "max_length": 100
 }
 ```
-Running the Benchmark
+## Running the Benchmark
 
 Ensure the FastAPI server is running (see above).
 Run the benchmark script:
