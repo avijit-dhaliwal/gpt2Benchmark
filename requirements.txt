@@ -1,0 +1,12 @@
+torch
+numpy
+jax
+fastapi
+pydantic
+uvicorn
+onnxruntime
+transformers
+requests
+matplotlib
+seaborn
+pandas
